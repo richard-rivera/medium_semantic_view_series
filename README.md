@@ -11,6 +11,7 @@ trial account.
 | `data/*.csv` | Bronze tables as CSVs: `accounts`, `products`, `subscriptions`, plus `dim_month`. Same data as `load_bronze.sql`. |
 | `load_bronze.sql` | Paste-and-run script that creates the `sv_series` database and loads the data. Run this first. |
 | `part1/part1.sql` | Part 1: the naive view, the curated fact table, the certified view, and PASS/FAIL checks. |
+| `part2/part2.sql` | Part 2: silver dimensions and fact, the `sv_revenue` topic view, a gold table built from it, and checks. |
 
 More part folders get added as the series publishes. Each one lists what it needs at the top
 and ends with checks that print PASS or FAIL.
@@ -49,3 +50,4 @@ means nothing.
 
 1. Paste `load_bronze.sql` into a Snowsight worksheet and run it.
 2. Paste `part1/part1.sql` and run it. The last two queries should print PASS on every row.
+3. Paste `part2/part2.sql` and run it. Same deal: the last two queries should print PASS.
