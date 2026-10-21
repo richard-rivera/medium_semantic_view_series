@@ -1,0 +1,62 @@
+account_id,account_name,segment,account_type,parent_account_id,region
+1001,Northwind,Enterprise,customer,,APAC
+1002,Northwind - BU1,Enterprise,customer,1001,EMEA
+1003,Northwind - BU2,Enterprise,customer,1001,NA
+1004,Contoso,Enterprise,customer,,APAC
+1005,Contoso - BU1,Mid-Market,customer,1004,APAC
+1006,Contoso - BU2,Enterprise,customer,1004,EMEA
+1007,Globex,Enterprise,customer,,NA
+1008,Globex - BU1,Enterprise,customer,1007,NA
+1009,Globex - BU2,Enterprise,customer,1007,NA
+1010,Initech,Enterprise,customer,,APAC
+1011,Initech - BU1,Mid-Market,customer,1010,APAC
+1012,Initech - BU2,Enterprise,customer,1010,NA
+1013,Umbrella,Enterprise,customer,,EMEA
+1014,Umbrella - BU1,Mid-Market,customer,1013,NA
+1015,Umbrella - BU2,Mid-Market,customer,1013,NA
+1016,Umbrella - BU3,Mid-Market,customer,1013,EMEA
+1017,Stark,Enterprise,customer,,EMEA
+1018,Stark - BU1,Enterprise,customer,1017,EMEA
+1019,Stark - BU2,Enterprise,customer,1017,EMEA
+1020,Wayne,Enterprise,customer,,NA
+1021,Wayne - BU1,Mid-Market,customer,1020,APAC
+1022,Wayne - BU2,Enterprise,customer,1020,NA
+1023,Wayne - BU3,Mid-Market,customer,1020,APAC
+1024,Acme,Enterprise,customer,,NA
+1025,Acme - BU1,Enterprise,customer,1024,EMEA
+1026,Acme - BU2,Mid-Market,customer,1024,APAC
+1027,Acme - BU3,Mid-Market,customer,1024,EMEA
+1028,Bluebird,Mid-Market,customer,,APAC
+1029,Copperline,Mid-Market,customer,,NA
+1030,Driftwood,Mid-Market,customer,,APAC
+1031,Evergreen,Mid-Market,customer,,NA
+1032,Foxglove,Mid-Market,customer,,NA
+1033,Granite,Mid-Market,customer,,APAC
+1034,Harbor,Mid-Market,customer,,NA
+1035,Ironwood,Mid-Market,customer,,EMEA
+1036,Juniper,Mid-Market,customer,,NA
+1037,Kestrel,Mid-Market,customer,,NA
+1038,Lakeside,Mid-Market,customer,,NA
+1039,Meridian,Mid-Market,customer,,EMEA
+1040,Oak St Dental,SMB,customer,,EMEA
+1041,Pike Bakery,SMB,customer,,EMEA
+1042,Quill Studio,SMB,customer,,APAC
+1043,Rowan Yoga,SMB,customer,,EMEA
+1044,Sable Books,SMB,customer,,NA
+1045,Tidewater Cafe,SMB,customer,,EMEA
+1046,Umber Design,SMB,customer,,EMEA
+1047,Vale Florist,SMB,customer,,NA
+1048,Willow Vet,SMB,customer,,APAC
+1049,Xeno Games,SMB,customer,,EMEA
+1050,Yarrow Spa,SMB,customer,,APAC
+1051,Zephyr Bikes,SMB,customer,,APAC
+1052,Alder Taxi,SMB,customer,,APAC
+1053,Birch Print,SMB,customer,,NA
+1054,Cedar Gym,SMB,customer,,APAC
+1055,Dune Surf,SMB,customer,,APAC
+1056,Elm Tutors,SMB,customer,,NA
+1057,Fern Pets,SMB,customer,,APAC
+1058,Internal - QA Sandbox,Enterprise,internal,,APAC
+1059,Internal - Demo Org,Mid-Market,internal,,NA
+1060,ChannelCo Reseller,Enterprise,reseller,,NA
+1061,PartnerHub Reseller,Mid-Market,reseller,,EMEA
